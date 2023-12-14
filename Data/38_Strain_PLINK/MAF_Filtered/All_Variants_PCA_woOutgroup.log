@@ -1,0 +1,30 @@
+PLINK v1.90b6.10 64-bit (17 Jun 2019)
+Options in effect:
+  --bfile 38Strain_All_Variants_woOutgroup
+  --maf 0.01
+  --nonfounders
+  --out All_Variants_PCA_woOutgroup
+  --pca
+
+Hostname: cn2001
+Working directory: /scratch.global/konox006/Cn_GWAS
+Start time: Mon Jul  3 10:37:57 2023
+
+Random number seed: 1688398677
+1031800 MB RAM detected; reserving 515900 MB for main workspace.
+142376 variants loaded from .bim file.
+35 people (0 males, 0 females, 35 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to All_Variants_PCA_woOutgroup.nosex .
+Using up to 31 threads (change this with --threads).
+Before main variant filters, 35 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.998805.
+137634 variants removed due to minor allele threshold(s)
+(--maf/--max-maf/--mac/--max-mac).
+4742 variants and 35 people pass filters and QC.
+Note: No phenotypes present.
+Relationship matrix calculation complete.
+--pca: Results saved to All_Variants_PCA_woOutgroup.eigenval and
+All_Variants_PCA_woOutgroup.eigenvec .
+
+End time: Mon Jul  3 10:37:57 2023

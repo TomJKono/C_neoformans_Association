@@ -1,0 +1,29 @@
+PLINK v1.90b6.26 64-bit (2 Apr 2022)
+Options in effect:
+  --bfile Cn_38_Strains
+  --maf 0.08
+  --make-bed
+  --out MAF_Filtered/Cn_38_Strains.MAF
+
+Hostname: dhcp11.msi.umn.edu
+Working directory: /Users/tomkono/Dropbox/GitHub/RIS/Nielsen_Cn_GWAS/Data/38_Strain_PLINK
+Start time: Wed Sep 14 12:46:00 2022
+
+Random number seed: 1663177560
+32768 MB RAM detected; reserving 16384 MB for main workspace.
+652 variants loaded from .bim file.
+38 people (0 males, 0 females, 38 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to MAF_Filtered/Cn_38_Strains.MAF.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 38 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.970011.
+89 variants removed due to minor allele threshold(s)
+(--maf/--max-maf/--mac/--max-mac).
+563 variants and 38 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to MAF_Filtered/Cn_38_Strains.MAF.bed +
+MAF_Filtered/Cn_38_Strains.MAF.bim + MAF_Filtered/Cn_38_Strains.MAF.fam ...
+done.
+
+End time: Wed Sep 14 12:46:00 2022

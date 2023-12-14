@@ -1,0 +1,32 @@
+PLINK v1.90b6.22 64-bit (3 Nov 2020)
+Options in effect:
+  --allow-extra-chr
+  --allow-no-sex
+  --bfile Cn_38_Strains
+  --keep ../../Resources/ST93A_Isolates.txt
+  --mac 3
+  --make-bed
+  --out ST93A_Isolates/ST93A_Isolates
+
+Hostname: debian
+Working directory: /storage/Data/Dropbox/GitHub/RIS/Nielsen_Cn_GWAS/Data/38_Strain_PLINK
+Start time: Fri Feb 17 09:48:56 2023
+
+Random number seed: 1676648936
+15921 MB RAM detected; reserving 7960 MB for main workspace.
+652 variants loaded from .bim file.
+38 people (0 males, 0 females, 38 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to ST93A_Isolates/ST93A_Isolates.nosex .
+--keep: 20 people remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 20 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate in remaining samples is 0.971012.
+276 variants removed due to minor allele threshold(s)
+(--maf/--max-maf/--mac/--max-mac).
+376 variants and 20 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to ST93A_Isolates/ST93A_Isolates.bed +
+ST93A_Isolates/ST93A_Isolates.bim + ST93A_Isolates/ST93A_Isolates.fam ... done.
+
+End time: Fri Feb 17 09:48:56 2023

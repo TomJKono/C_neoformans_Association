@@ -1,0 +1,37 @@
+##
+## GEMMA Version    = 0.98.5 (2021-08-25)
+## Build profile    = /gnu/store/8rvid272yb53bgascf5c468z0jhsyflj-profile
+## GCC version      = 7.5.0
+## GSL Version      = 2.6
+## OpenBlas         = OpenBLAS 0.3.9  - OpenBLAS 0.3.9 DYNAMIC_ARCH NO_AFFINITY Sandybridge MAX_THREADS=128
+##   arch           = Sandybridge
+##   threads        = 4
+##   parallel type  = threaded
+##
+## Command Line Input = /storage/Data/Sci-Software/gemma-0.98.5/gemma-0.98.5-linux-static-AMD64 -bfile /home/tom/Dropbox/GitHub/RIS/Nielsen_Cn_GWAS/Data/38_Strain_PLINK/MAF_Filtered/Cn_38_Strains.MAF -n 1 -k /home/tom/Dropbox/GitHub/RIS/Nielsen_Cn_GWAS/Results/38_Strain_GWAS/Associations/output/Cn_38_Strains.GRM.cXX.txt -o Virulence_dpi -miss 0.50 -maf 0.08 -r2 1.0 -hwe 0 -lmm 4 
+##
+## Date = Thu Sep 15 16:02:32 2022
+##
+## Summary Statistics:
+## number of total individuals = 38
+## number of analyzed individuals = 35
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs/var = 563
+## number of analyzed SNPs/var = 558
+## REMLE log-likelihood in the null model = -171.086
+## MLE log-likelihood in the null model = -174.917
+## pve estimate in the null model = 8.05589e-06
+## se(pve) in the null model = 0.133004
+## vg estimate in the null model = 0.0137469
+## ve estimate in the null model = 1374.69
+## beta estimate in the null model =   28.6286
+## se(beta) =   6.26712
+##
+## Computation Time:
+## total computation time = 0.0101385 min 
+## computation time break down: 
+##      time on eigen-decomposition = 0.00245462 min 
+##      time on calculating UtX = 0.000133733 min 
+##      time on optimization = 0.00680992 min 
+##

@@ -1,0 +1,29 @@
+PLINK v1.90b6.22 64-bit (3 Nov 2020)
+Options in effect:
+  --file Cn_38_Strains
+  --make-bed
+  --out Cn_38_Strains
+
+Hostname: debian
+Working directory: /storage/Data/Dropbox/GitHub/RIS/Nielsen_Cn_GWAS/Data/38_Strain_PLINK
+Start time: Tue Sep 13 23:24:33 2022
+
+Random number seed: 1663129473
+15921 MB RAM detected; reserving 7960 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (652 variants, 38 people).
+--file: Cn_38_Strains-temporary.bed + Cn_38_Strains-temporary.bim +
+Cn_38_Strains-temporary.fam written.
+652 variants loaded from .bim file.
+38 people (0 males, 0 females, 38 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to Cn_38_Strains.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 38 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.970011.
+652 variants and 38 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to Cn_38_Strains.bed + Cn_38_Strains.bim + Cn_38_Strains.fam ...
+done.
+
+End time: Tue Sep 13 23:24:33 2022

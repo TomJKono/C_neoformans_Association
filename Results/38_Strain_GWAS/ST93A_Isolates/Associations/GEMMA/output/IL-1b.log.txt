@@ -1,0 +1,37 @@
+##
+## GEMMA Version    = 0.98.5 (2021-08-25)
+## Build profile    = /gnu/store/8rvid272yb53bgascf5c468z0jhsyflj-profile
+## GCC version      = 7.5.0
+## GSL Version      = 2.6
+## OpenBlas         = OpenBLAS 0.3.9  - OpenBLAS 0.3.9 DYNAMIC_ARCH NO_AFFINITY Sandybridge MAX_THREADS=128
+##   arch           = Sandybridge
+##   threads        = 4
+##   parallel type  = threaded
+##
+## Command Line Input = /storage/Data/Sci-Software/gemma-0.98.5/gemma-0.98.5-linux-static-AMD64 -bfile /home/tom/Dropbox/GitHub/RIS/Nielsen_Cn_GWAS/Data/38_Strain_PLINK/ST93A_Isolates/ST93A_Isolates -n 6 -k /home/tom/Dropbox/GitHub/RIS/Nielsen_Cn_GWAS/Results/38_Strain_GWAS/ST93A_Isolates/Associations/GEMMA/output/ST93A.GRM.cXX.txt -o IL-1b -miss 0.50 -maf 0.02 -r2 1.0 -hwe 0 -lmm 4 
+##
+## Date = Fri Feb 17 10:42:24 2023
+##
+## Summary Statistics:
+## number of total individuals = 20
+## number of analyzed individuals = 16
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs/var = 376
+## number of analyzed SNPs/var = 376
+## REMLE log-likelihood in the null model = -61.2272
+## MLE log-likelihood in the null model = -60.2822
+## pve estimate in the null model = 7.14063e-06
+## se(pve) in the null model = 1.32055
+## vg estimate in the null model = 0.00205562
+## ve estimate in the null model = 205.562
+## beta estimate in the null model =   12.5293
+## se(beta) =   3.58436
+##
+## Computation Time:
+## total computation time = 0.00490978 min 
+## computation time break down: 
+##      time on eigen-decomposition = 1.88333e-05 min 
+##      time on calculating UtX = 7.33333e-06 min 
+##      time on optimization = 0.00437133 min 
+##
